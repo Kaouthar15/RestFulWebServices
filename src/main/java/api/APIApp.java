@@ -12,7 +12,6 @@ public class APIApp extends Application{
 	
 	public APIApp() {
 		singletons = new HashSet<Object>();
-		
 	}
 	
 	@Override
